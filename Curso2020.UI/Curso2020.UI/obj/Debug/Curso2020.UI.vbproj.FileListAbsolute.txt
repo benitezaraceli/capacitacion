@@ -1,0 +1,438 @@
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Curso.UI.dll.config
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Curso.UI.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Curso.UI.pdb
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Curso.UI.xml
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\csc.exe
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\csc.exe.config
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\csc.rsp
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\csi.exe
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\csi.exe.config
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\csi.rsp
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\System.AppContext.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\System.Console.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\vbc.exe
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\vbc.exe.config
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\vbc.rsp
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Curso2020.Security.Api.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Curso2020.Security.Service.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Curso2020.Liquidations.Model.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Curso2020.Liquidations.Common.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\RestSharp.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Curso2020.Security.Common.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Newtonsoft.Json.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Curso2020.Security.Model.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Microsoft.Extensions.Options.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Curso2020.Liquidations.Api.pdb
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Curso2020.Liquidations.Services.pdb
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Curso2020.Security.Api.pdb
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Curso2020.Security.Service.pdb
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Curso2020.Liquidations.Model.pdb
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Curso2020.Liquidations.Common.pdb
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Curso2020.Security.Common.pdb
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\bin\Curso2020.Security.Model.pdb
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\obj\Debug\Curso2020.UI.vbprojAssemblyReference.cache
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\obj\Debug\Curso.UI.Resources.resources
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\obj\Debug\Curso2020.UI.vbproj.GenerateResource.cache
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\obj\Debug\Curso2020.UI.vbproj.CoreCompileInputs.cache
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\obj\Debug\Curso2020.UI.vbproj.CopyComplete
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\obj\Debug\Curso.UI.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\obj\Debug\Curso.UI.xml
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Curso.UI\Curso2020.Curso.UI\obj\Debug\Curso.UI.pdb
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Curso.UI.dll.config
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Curso.UI.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Curso.UI.pdb
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Curso.UI.xml
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\csc.exe
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\csc.exe.config
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\csc.rsp
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\csi.exe
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\csi.exe.config
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\csi.rsp
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\System.AppContext.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Console.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\vbc.exe
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\vbc.exe.config
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\vbc.rsp
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Curso2020.Security.Api.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Curso2020.Security.Service.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Curso2020.Liquidations.Model.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Curso2020.Liquidations.Common.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\RestSharp.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Curso2020.Security.Common.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Newtonsoft.Json.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Curso2020.Security.Model.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Options.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Curso2020.Liquidations.Api.pdb
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Curso2020.Liquidations.Services.pdb
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Curso2020.Security.Api.pdb
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Curso2020.Security.Service.pdb
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Curso2020.Liquidations.Model.pdb
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Curso2020.Liquidations.Common.pdb
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Curso2020.Security.Common.pdb
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\bin\Curso2020.Security.Model.pdb
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\obj\Debug\Curso2020.UI.vbprojAssemblyReference.cache
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\obj\Debug\Curso.UI.Resources.resources
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\obj\Debug\Curso2020.UI.vbproj.GenerateResource.cache
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\obj\Debug\Curso2020.UI.vbproj.CoreCompileInputs.cache
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\obj\Debug\Curso2020.UI.vbproj.CopyComplete
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\obj\Debug\Curso.UI.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\obj\Debug\Curso.UI.xml
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.UI\Curso2020.UI\obj\Debug\Curso.UI.pdb
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Curso.UI.dll.config
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Curso.UI.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Curso.UI.pdb
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Curso.UI.xml
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\csc.exe
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\csc.exe.config
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\csc.rsp
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\csi.exe
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\csi.exe.config
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\csi.rsp
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.AppContext.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Console.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\vbc.exe
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\vbc.exe.config
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\vbc.rsp
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Curso2020.Management.Api.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Curso2020.Service.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Curso2020.Common.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Curso2020.Model.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\RestSharp.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Newtonsoft.Json.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Options.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Curso2020.Management.Api.pdb
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Curso2020.Service.pdb
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Curso2020.Common.pdb
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\bin\Curso2020.Model.pdb
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\obj\Debug\Curso2020.UI.vbprojAssemblyReference.cache
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\obj\Debug\Curso.UI.Resources.resources
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\obj\Debug\Curso2020.UI.vbproj.GenerateResource.cache
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\obj\Debug\Curso2020.UI.vbproj.CoreCompileInputs.cache
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\obj\Debug\Curso2020.UI.vbproj.CopyComplete
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\obj\Debug\Curso.UI.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\obj\Debug\Curso.UI.xml
+C:\Users\Aldana\source\repos\curso2020\Curso2020\Curso2020.UI\Curso2020.UI\obj\Debug\Curso.UI.pdb
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Curso.UI.dll.config
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Curso.UI.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Curso.UI.pdb
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Curso.UI.xml
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\csc.exe
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\csc.exe.config
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\csc.rsp
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\csi.exe
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\csi.exe.config
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\csi.rsp
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.AppContext.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Console.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\vbc.exe
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\vbc.exe.config
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\vbc.rsp
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Curso2020.Common.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Curso2020.Model.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\RestSharp.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Newtonsoft.Json.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Options.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Curso2020.Management.Api.pdb
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Curso2020.Service.pdb
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Curso2020.Common.pdb
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\bin\Curso2020.Model.pdb
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\obj\Debug\Curso2020.UI.vbprojAssemblyReference.cache
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\obj\Debug\Curso.UI.Resources.resources
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\obj\Debug\Curso2020.UI.vbproj.GenerateResource.cache
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\obj\Debug\Curso2020.UI.vbproj.CoreCompileInputs.cache
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\obj\Debug\Curso2020.UI.vbproj.CopyComplete
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\obj\Debug\Curso.UI.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\obj\Debug\Curso.UI.xml
+C:\Users\Aldana\source\repos\curso2020\Curso2020.UI\Curso2020.UI\obj\Debug\Curso.UI.pdb
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Curso.UI.dll.config
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Curso.UI.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Curso.UI.pdb
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Curso.UI.xml
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\csc.exe
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\csc.exe.config
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\csc.rsp
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\csi.exe
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\csi.exe.config
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\csi.rsp
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.AppContext.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Console.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\vbc.exe
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\vbc.exe.config
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\vbc.rsp
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Curso2020.Common.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Curso2020.Model.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\RestSharp.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Newtonsoft.Json.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Options.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Curso2020.Management.Api.pdb
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Curso2020.Service.pdb
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Curso2020.Common.pdb
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\bin\Curso2020.Model.pdb
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\obj\Debug\Curso2020.UI.vbprojAssemblyReference.cache
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\obj\Debug\Curso.UI.Resources.resources
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\obj\Debug\Curso2020.UI.vbproj.GenerateResource.cache
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\obj\Debug\Curso2020.UI.vbproj.CoreCompileInputs.cache
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\obj\Debug\Curso2020.UI.vbproj.CopyComplete
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\obj\Debug\Curso.UI.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\obj\Debug\Curso.UI.xml
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.UI\Curso2020.UI\obj\Debug\Curso.UI.pdb

@@ -1,0 +1,268 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Aldana\\Desktop\\curso2020\\curso2020\\Curso2020.Security\\Curso2020.Security.Api\\Curso2020.Security.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Aldana\\Desktop\\curso2020\\curso2020\\Curso2020.Security\\Curso2020.Security.Api\\Curso2020.Security.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aldana\\Desktop\\curso2020\\curso2020\\Curso2020.Security\\Curso2020.Security.Api\\Curso2020.Security.Api.csproj",
+        "projectName": "Curso2020.Security.Api",
+        "projectPath": "C:\\Users\\Aldana\\Desktop\\curso2020\\curso2020\\Curso2020.Security\\Curso2020.Security.Api\\Curso2020.Security.Api.csproj",
+        "packagesPath": "C:\\Users\\Aldana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aldana\\Desktop\\curso2020\\curso2020\\Curso2020.Security\\Curso2020.Security.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aldana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Aldana\\Desktop\\curso2020\\curso2020\\Curso2020.Security\\Curso2020.Security.Service\\Curso2020.Security.Service.csproj": {
+                "projectPath": "C:\\Users\\Aldana\\Desktop\\curso2020\\curso2020\\Curso2020.Security\\Curso2020.Security.Service\\Curso2020.Security.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Aldana\\Desktop\\curso2020\\curso2020\\Curso2020.Security\\Curso2020.Security.Common\\Curso2020.Security.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aldana\\Desktop\\curso2020\\curso2020\\Curso2020.Security\\Curso2020.Security.Common\\Curso2020.Security.Common.csproj",
+        "projectName": "Curso2020.Security.Common",
+        "projectPath": "C:\\Users\\Aldana\\Desktop\\curso2020\\curso2020\\Curso2020.Security\\Curso2020.Security.Common\\Curso2020.Security.Common.csproj",
+        "packagesPath": "C:\\Users\\Aldana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aldana\\Desktop\\curso2020\\curso2020\\Curso2020.Security\\Curso2020.Security.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aldana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Aldana\\Desktop\\curso2020\\curso2020\\Curso2020.Security\\Curso2020.Security.Model\\Curso2020.Security.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aldana\\Desktop\\curso2020\\curso2020\\Curso2020.Security\\Curso2020.Security.Model\\Curso2020.Security.Model.csproj",
+        "projectName": "Curso2020.Security.Model",
+        "projectPath": "C:\\Users\\Aldana\\Desktop\\curso2020\\curso2020\\Curso2020.Security\\Curso2020.Security.Model\\Curso2020.Security.Model.csproj",
+        "packagesPath": "C:\\Users\\Aldana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aldana\\Desktop\\curso2020\\curso2020\\Curso2020.Security\\Curso2020.Security.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aldana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Aldana\\Desktop\\curso2020\\curso2020\\Curso2020.Security\\Curso2020.Security.Service\\Curso2020.Security.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aldana\\Desktop\\curso2020\\curso2020\\Curso2020.Security\\Curso2020.Security.Service\\Curso2020.Security.Service.csproj",
+        "projectName": "Curso2020.Security.Service",
+        "projectPath": "C:\\Users\\Aldana\\Desktop\\curso2020\\curso2020\\Curso2020.Security\\Curso2020.Security.Service\\Curso2020.Security.Service.csproj",
+        "packagesPath": "C:\\Users\\Aldana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aldana\\Desktop\\curso2020\\curso2020\\Curso2020.Security\\Curso2020.Security.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aldana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Aldana\\Desktop\\curso2020\\curso2020\\Curso2020.Security\\Curso2020.Security.Common\\Curso2020.Security.Common.csproj": {
+                "projectPath": "C:\\Users\\Aldana\\Desktop\\curso2020\\curso2020\\Curso2020.Security\\Curso2020.Security.Common\\Curso2020.Security.Common.csproj"
+              },
+              "C:\\Users\\Aldana\\Desktop\\curso2020\\curso2020\\Curso2020.Security\\Curso2020.Security.Model\\Curso2020.Security.Model.csproj": {
+                "projectPath": "C:\\Users\\Aldana\\Desktop\\curso2020\\curso2020\\Curso2020.Security\\Curso2020.Security.Model\\Curso2020.Security.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

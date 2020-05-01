@@ -1,0 +1,197 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Login</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <style>
+        .container {
+            line-height: 100vh;
+            text-align: center;
+        }
+
+        .container2 {
+            line-height: 100vh;
+            text-align: center;
+            display: block;
+            display: none;
+        }
+
+        .centered {
+            display: inline-block;
+            vertical-align: middle;
+            line-height: 100%;
+            width: 400px;
+        }
+
+        .centered2 {
+            display: inline-block;
+            vertical-align: middle;
+            line-height: 100%;
+        }
+
+        .controls {
+            max-width: 350px;
+            margin: 20px;
+        }
+
+        .label {
+            min-width: 140px;
+            float: left;
+            text-align: right;
+        }
+    </style>
+
+    <script>
+        $(document).ready(function () {
+
+            $("#btnlogin").click(function () {
+                let nombreUsuario = $("#nombreUsuarioLogin").val();
+                let contrasenia = $("#contraseniaLogin").val();
+
+                if (nombreUsuario != "" && contrasenia.length >= 10) {
+                    let data = { nombreUsuario: nombreUsuario, contrasenia: contrasenia };
+                    $.ajax({
+                        url: "https://localhost:5003/api/Security/Login",
+                        method: "POST",
+                        crossDomain: true,
+                        headers: {
+                            "Accept": "application/json",
+                        },
+                        data: JSON.stringify(data),
+                        dataType: 'json',
+                        contentType: "application/json; charset=utf-8",
+                        success: function (data) {
+                            let token = data.guid;
+                            localStorage.setItem("token", token);
+                            let rol = data.rol;
+                            localStorage.setItem("rol", rol);
+                            window.location = "/Tabla.html";
+                        },
+                        error: function (xhr) {
+                            let response = JSON.parse(xhr.responseText);
+                            switch (xhr.status) {
+                                case 400:
+                                case 401:
+                                    alert(response.message)
+                                    break;
+                                default:
+                                    alert(JSON.stringify(xhr));
+                            }
+                        }
+                    });
+                }
+                else { alert("Complete los campos") }
+            })
+        });
+
+        $(document).ready(function () {
+            $("#CrearUsuario").click(function () {
+                $('.container').hide('slow');
+                $('.container2').show('slow');
+            });
+
+            $("#btnVolverLogin3").click(function () {
+                $('.container3').hide('slow');
+                $('.container').show('slow');
+
+            });
+
+            $("#Crear").click(function () {
+                let nombreUsuario = $("#nombreUsuarioCrear").val();
+                let contrasenia = $("#contraseniaCrear").val();
+                let dnicuit = $("#dnicuit").val();
+                let rol = $("#rol").val();
+                let data = { nombreUsuario: nombreUsuario, contrasenia: contrasenia, dniCuit: dnicuit, rol: rol }
+                debugger;
+                $.ajax({
+                    url: "https://localhost:5003/api/Security/CreateUser",
+                    method: "PUT",
+                    data: JSON.stringify(data),
+                    dataType: 'json',
+                    contentType: "application/json; charset=utf-8",
+                    success: function (data) {
+                        if (typeof data !== "object") {
+                            data = data.d || data;
+                            data = JSON.parse(data);
+                        }
+                        let message = data.message || data.Message;
+                        alert(message);
+                        window.location = "https://localhost:44321/Login.html"
+                    },
+                    error: function (xhr) {
+                        let response = JSON.parse(xhr.responseText);
+                        switch (xhr.status) {
+                            case 401:
+                                alert(response.message)
+                                break;
+                            case 400:
+                            case 404:
+                                alert(response.message)
+                                break;
+                            default:
+                                alert(JSON.stringify(xhr));
+                        }
+                    }
+                });
+
+            });
+        });
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div class="centered">
+            <div class="loginBox">
+                <h2>Login</h2><hr />
+                <div class="form-group">
+                    <input id="nombreUsuarioLogin" class="form-control input-lg" type="text" placeholder="Nombre de usuario" required>
+                </div>
+                <div class="form-group">
+                    <input id="contraseniaLogin" class="form-control input-lg" type="password" placeholder="Contraseña" aria-label="Contraseña" required>
+                </div>
+                <button type="button" class="btn btn-primary btn-sm " id="btnlogin">Ingresar</button>
+                <hr>¿No estás registrado? <br />
+                <a id="CrearUsuario" style="color:#007bff">Crea una cuenta</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="container2">
+        <div class="centered2">
+            <div class="row">
+                <div class="col-sm-12 col-md-6 col-lg-6">
+                    <h3>Registrarse</h3><hr />
+
+                    <div class="form-group">
+                        <input id="nombreUsuarioCrear" type="text" class="form-control" name="nombre" placeholder="Nombre de Usuario" required>
+                    </div>
+
+                    <div class="form-group">
+                        <input id="contraseniaCrear" type="password" name="password" value="" autocomplete="off" class="form-control" placeholder="Contraseña" aria-label="password" required>
+                    </div>
+
+                    <div class="form-group">
+                        <input id="dnicuit" type="number" min="0" name="dnicuit" value="" autocomplete="off" class="form-control" placeholder="DNI o CUIT" aria-label="dnicuit" required>
+                    </div>
+
+                    <div class="form-group">
+                        <input id="rol" type="text" name="rol" value="" autocomplete="off" class="form-control" placeholder="Perfil del Usuario" aria-label="rol" required>
+                    </div>
+
+                    <button id="Crear" class="btn btn-success center btn-dark">Registrarme</button>
+                </div>
+                <div class="col-sm-12 col-md-6 col-lg-6">
+                    <h3>Login</h3><hr />
+                    ¿Ya estás registrado?<br />
+                    <a id="btnVolverLogin3" style="color:#007bff">Ingresa aquí!</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

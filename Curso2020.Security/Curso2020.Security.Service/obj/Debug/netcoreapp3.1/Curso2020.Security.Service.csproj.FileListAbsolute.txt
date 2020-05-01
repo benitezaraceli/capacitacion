@@ -1,0 +1,70 @@
+C:\Users\Aldana\Source\Repos\curso2020\Curso2020.Login.Api\SecurityService\bin\Debug\netcoreapp3.1\Curso2020.Security.Service.deps.json
+C:\Users\Aldana\Source\Repos\curso2020\Curso2020.Login.Api\SecurityService\bin\Debug\netcoreapp3.1\Curso2020.Security.Service.dll
+C:\Users\Aldana\Source\Repos\curso2020\Curso2020.Login.Api\SecurityService\bin\Debug\netcoreapp3.1\Curso2020.Security.Service.pdb
+C:\Users\Aldana\Source\Repos\curso2020\Curso2020.Login.Api\SecurityService\bin\Debug\netcoreapp3.1\Curso2020.Security.Common.dll
+C:\Users\Aldana\Source\Repos\curso2020\Curso2020.Login.Api\SecurityService\bin\Debug\netcoreapp3.1\Curso2020.Security.Model.dll
+C:\Users\Aldana\Source\Repos\curso2020\Curso2020.Login.Api\SecurityService\bin\Debug\netcoreapp3.1\Curso2020.Security.Common.pdb
+C:\Users\Aldana\Source\Repos\curso2020\Curso2020.Login.Api\SecurityService\bin\Debug\netcoreapp3.1\Curso2020.Security.Model.pdb
+C:\Users\Aldana\Source\Repos\curso2020\Curso2020.Login.Api\SecurityService\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.csprojAssemblyReference.cache
+C:\Users\Aldana\Source\Repos\curso2020\Curso2020.Login.Api\SecurityService\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.csproj.CoreCompileInputs.cache
+C:\Users\Aldana\Source\Repos\curso2020\Curso2020.Login.Api\SecurityService\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.AssemblyInfoInputs.cache
+C:\Users\Aldana\Source\Repos\curso2020\Curso2020.Login.Api\SecurityService\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.AssemblyInfo.cs
+C:\Users\Aldana\Source\Repos\curso2020\Curso2020.Login.Api\SecurityService\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.csproj.CopyComplete
+C:\Users\Aldana\Source\Repos\curso2020\Curso2020.Login.Api\SecurityService\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.dll
+C:\Users\Aldana\Source\Repos\curso2020\Curso2020.Login.Api\SecurityService\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.pdb
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.csprojAssemblyReference.cache
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.csproj.CoreCompileInputs.cache
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.AssemblyInfoInputs.cache
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.AssemblyInfo.cs
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Service.deps.json
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Service.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Common.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Model.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Common.pdb
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Model.pdb
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.csproj.CopyComplete
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Service.pdb
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.dll
+C:\Users\Aldana\source\repos\Liquidations.Api\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.pdb
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Service.deps.json
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Service.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Service.pdb
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Common.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Model.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Common.pdb
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Model.pdb
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.csprojAssemblyReference.cache
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.csproj.CoreCompileInputs.cache
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.AssemblyInfoInputs.cache
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.AssemblyInfo.cs
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.csproj.CopyComplete
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.dll
+C:\Users\Aldana\source\repos\carpeta para repositorio\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.pdb
+C:\Users\Aldana\source\repos\curso2020\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Service.deps.json
+C:\Users\Aldana\source\repos\curso2020\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Service.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Service.pdb
+C:\Users\Aldana\source\repos\curso2020\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Common.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Model.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Common.pdb
+C:\Users\Aldana\source\repos\curso2020\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Model.pdb
+C:\Users\Aldana\source\repos\curso2020\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.csprojAssemblyReference.cache
+C:\Users\Aldana\source\repos\curso2020\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.csproj.CoreCompileInputs.cache
+C:\Users\Aldana\source\repos\curso2020\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.AssemblyInfoInputs.cache
+C:\Users\Aldana\source\repos\curso2020\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.AssemblyInfo.cs
+C:\Users\Aldana\source\repos\curso2020\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.csproj.CopyComplete
+C:\Users\Aldana\source\repos\curso2020\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.dll
+C:\Users\Aldana\source\repos\curso2020\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.pdb
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Service.deps.json
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Service.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Service.pdb
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Common.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Model.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Common.pdb
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.Security\Curso2020.Security.Service\bin\Debug\netcoreapp3.1\Curso2020.Security.Model.pdb
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.csprojAssemblyReference.cache
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.csproj.CoreCompileInputs.cache
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.AssemblyInfoInputs.cache
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.AssemblyInfo.cs
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.csproj.CopyComplete
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.dll
+C:\Users\Aldana\Desktop\curso2020\curso2020\Curso2020.Security\Curso2020.Security.Service\obj\Debug\netcoreapp3.1\Curso2020.Security.Service.pdb
